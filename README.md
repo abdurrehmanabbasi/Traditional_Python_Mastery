@@ -11,4 +11,5 @@ Final Deliverables after of every chapter
 |---|---|
 |Chapter-0 Tradition Python| Bank Simulation: A GUI+CLI based Project |
 |Chapter-1 DSA| Research Report: A comprehensive research report of 10,000 Pages |
-|Chapter-2 Data Science| |
+|Chapter-2 Data Science| Real world problem no dataset exist So do data collection => cleaning => explore=> visualize => insight of that problem|
+|Machine Learning||

@@ -80,6 +80,7 @@ Here’s a detailed **curriculum** for an advanced course in **Data Structures &
 
 * Quizes after completing Units and Exam on Paper generate by AI
 * Leetcode 30 probelms 1 per day
+* GITHUB LEETCODE MEDIUM LINKEDIN
 * Final Assesment is course exam of Course @ Analysis of Algorimts @ SIBAU by MHM
 
 ---

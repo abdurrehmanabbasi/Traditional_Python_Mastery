@@ -11,6 +11,8 @@ In learning  previous chapters of basics and algorithmic theory now time to go w
 | Unit 2.2| Data Scraping and Collection: Request, Beatifulsoup, JSON-XML and also api based fetching, handling authentication and pagination | Scrape from a complicated website and collect realtime data like trading, weather |
 |Unit 2.3 | Data visualization and story telling: Matplotlib and seaborn, Dashboard, EDA | EDA of Public Dataset on kaggle |
 |Unit 2.4| Stats and Prob of Data analysis:decriptive, probality basic and distribution, inferential stats, numpy, scipy | Statistical Analysis of a survey dataset|
+|Unit 2.5| Data Preprocessing and feature engineering | Preprocess and prepare a dataset for ML and DL task|
+|Thought out the course| Task scheduling, managing DS Project, jupyter, VCS| GITHUB KAGGLE MEDIUM LINKEDIN YT
 
 ### Final Project
 Real world problem no dataset exist So do data collection => cleaning => explore=> visualize => insight of that problem
